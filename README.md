@@ -1,5 +1,5 @@
 # pyspark_dp_beta
-A simple pyspark script that implements the most basic Laplacian version of DP on (project, country, page, # views) tuples.
+The first notebook is a simple pyspark script that implements the most basic Laplacian version of DP on (project, country, page, # views) tuples.
 
 In order to execute this jupyter notebook, you need to ssh into an analytics machine (I'm using stat1005) and kinit to access HDFS, following the guidelines laid out on wikitech at this page: https://wikitech.wikimedia.org/wiki/Analytics/Systems/Jupyter#Access.
 
@@ -10,3 +10,73 @@ This notebook roughly follows along with the exercises in the two DP tutorials l
 - https://github.com/OpenMined/PipelineDP/blob/main/docs/tutorial_1/2_beam_laplace_mechansim.ipynb
 
 I've adapted them to execute using Apache Spark rather than Apache Beam.
+
+# Installing PyDP on a production analytics machine
+start from home directory
+
+clone pydp source
+```
+git clone https://github.com/OpenMined/PyDP.git
+```
+
+install bazel
+```
+wget https://github.com/bazelbuild/bazel/releases/download/5.0.0-pre.20210817.2/bazel-5.0.0-pre.20210817.2-installer-linux-x86_64.sh
+chmod +x bazel-5.0.0-pre.20210817.2-installer-linux-x86_64.sh 
+./bazel-5.0.0-pre.20210817.2-installer-linux-x86_64.sh --user
+export PATH="$PATH:$HOME/bin"
+(and/or add the above line to .bash_profile)
+```
+
+make intended import target
+```
+mkdir <dir>
+cd <dir>
+```
+
+make target env
+```
+python3 -m venv env
+source env/bin/activate
+pip install --upgrade pip
+pip install poetry
+```
+
+make pydp from source
+```
+cd ../PyDP
+git submodule deinit -f --all
+git submodule init
+git submodule update
+make build
+```
+
+If you want this to load in jupyter:
+```
+pip install jupyter
+pip install ipython
+export PYSPARK_DRIVER_PYTHON=ipython
+export PYSPARK_DRIVER_PYTHON_OPTS="notebook --port 8123  --ip='*' --no-browser"
+kinit
+```
+
+equivalent to ‘yarn-large’ in wmfdata
+```
+pyspark2 --master yarn --deploy-mode client --executor-memory 8G --executor-cores 4 --driver-memory 4G --conf spark.dynamicAllocation.maxExecutors=128
+```
+
+You’ll see something like:
+```
+To access the notebook, open this file in a browser:
+         file:///srv/home/joal/.local/share/jupyter/runtime/nbserver-13696-open.html
+     Or copy and paste one of these URLs:
+         http://stat1004:8123/?token=BLAH
+     or http://127.0.0.1:8123/?token=BLAH
+```
+
+ On your local machine, run something like
+```
+ssh -N stat1005.eqiad.wmnet -L 8123:stat1005.eqiad.wmnet:8123
+```
+
+You should then be able to open your own env in jupyter notebook
