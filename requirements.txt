@@ -1,0 +1,158 @@
+alabaster @ file:///home/htriedman/.cache/pypoetry/artifacts/cd/37/e0/89f7da30c12075ae566ff3d8107abdbc74fd3d19ae5644765d79dd5d47/alabaster-0.7.12-py2.py3-none-any.whl
+apipkg @ file:///home/htriedman/.cache/pypoetry/artifacts/69/ea/b0/685284847139e7923433e36ccfc28220bb35ae90811d0bdc31dc569361/apipkg-1.5-py2.py3-none-any.whl
+appdirs @ file:///home/htriedman/.cache/pypoetry/artifacts/13/9e/45/de9aff042cbd8e14716eb6a553c3eb75e8d313cc1738477a933a926d87/appdirs-1.4.4-py2.py3-none-any.whl
+argon2-cffi @ file:///home/htriedman/.cache/pypoetry/artifacts/40/58/da/99ea4f10c652469eb6c623b269fb96784ed9bbdab439c3a5bd9d9afa6e/argon2_cffi-20.1.0-cp35-abi3-manylinux1_x86_64.whl
+async-generator @ file:///home/htriedman/.cache/pypoetry/artifacts/5a/c9/85/708dc64d76e0faea9f132181d1f9589bfab62218ac9bbef7d6cfc821d2/async_generator-1.10-py3-none-any.whl
+attrs @ file:///home/htriedman/.cache/pypoetry/artifacts/9e/6f/95/f4bd71c5acad2b4bbea55d3023e8221fce07e7df6b9da06439c5921b89/attrs-21.2.0-py2.py3-none-any.whl
+Babel @ file:///home/htriedman/.cache/pypoetry/artifacts/7c/17/6c/57e56c9192824e862b3257e733446666f80167d80ad4832243185faf2e/Babel-2.9.1-py2.py3-none-any.whl
+backcall @ file:///home/htriedman/.cache/pypoetry/artifacts/d9/1c/14/88957e7a43c92c6678d8ca482196186836144475c67d11ff02a4ee2194/backcall-0.2.0-py2.py3-none-any.whl
+backports.entry-points-selectable==1.1.0
+black @ file:///home/htriedman/.cache/pypoetry/artifacts/7b/6c/d2/efd4b805b84f116ba160490326d5b62df63da44b88a84e2b1e9042ac7f/black-20.8b1.tar.gz
+black-nb @ file:///home/htriedman/.cache/pypoetry/artifacts/36/a3/84/a143eef1ff4f558fd20b3b6e6c5a03d39b9051ac2e6899cc06ea7e3cff/black_nb-0.0.4-py3-none-any.whl
+bleach @ file:///home/htriedman/.cache/pypoetry/artifacts/0c/19/da/291df1a8b71e9bd208e3e6f801afd6567b9ef47036b167c11e25f5c96c/bleach-3.3.0-py2.py3-none-any.whl
+bumpversion @ file:///home/htriedman/.cache/pypoetry/artifacts/25/3e/7d/33b799ce276b1fa45f4c58c279db78d8c1f4178cae0a620bbfd7aa509e/bumpversion-0.5.3-py2.py3-none-any.whl
+CacheControl==0.12.6
+cachy==0.3.0
+certifi @ file:///home/htriedman/.cache/pypoetry/artifacts/db/9d/0a/3683163af3bb7fe252dfa5f98aaa627b305ffe603bfe0bb65ac3224c7a/certifi-2020.12.5-py2.py3-none-any.whl
+cffi @ file:///home/htriedman/.cache/pypoetry/artifacts/25/db/72/24c31ee860d752b550f7744febafb4d2b3bfe3ada972f163ccdf8ae711/cffi-1.14.5-cp37-cp37m-manylinux1_x86_64.whl
+cfgv @ file:///home/htriedman/.cache/pypoetry/artifacts/0b/30/70/feb2a2e20a1393721cc7e494c87f06f5ef5192f99a4e56456f8f8e212a/cfgv-3.0.0-py2.py3-none-any.whl
+chardet @ file:///home/htriedman/.cache/pypoetry/artifacts/f0/e1/66/f8ced421461f1dda06ea89af6ac51a22cf72ff0595f329808634559b2b/chardet-4.0.0-py2.py3-none-any.whl
+charset-normalizer==2.0.4
+cleo==0.8.1
+click @ file:///home/htriedman/.cache/pypoetry/artifacts/e8/34/1b/07620f6eafc2e87b7ffa3f8ce84266cd5c94315f448d0733a98ea8e73f/click-8.0.0-py3-none-any.whl
+clikit==0.6.2
+colorama @ file:///home/htriedman/.cache/pypoetry/artifacts/33/a2/a4/09f68d0a2176d987da70e9dee0eaea3cc48f68b56a7fa8ac56c2d22dc7/colorama-0.4.4-py2.py3-none-any.whl
+coverage @ file:///home/htriedman/.cache/pypoetry/artifacts/9b/3b/0e/7304b9b5727e6d8c7dcb7790e5a7ada9f9b0eb3d447c55bafbd1e10a6e/coverage-5.5-cp37-cp37m-manylinux2010_x86_64.whl
+crashtest==0.3.1
+cryptography @ file:///home/htriedman/.cache/pypoetry/artifacts/4a/30/7c/ed21689451c75210f0aa8a79930950ff7b2ea00060b454a5a04f86d9b2/cryptography-3.4.7-cp36-abi3-manylinux2014_x86_64.whl
+cycler @ file:///home/htriedman/.cache/pypoetry/artifacts/9c/d7/b0/dfa9603bb99384947661c58e61ad1b66acd1a2ba6f0d767c9d85a6c1f0/cycler-0.10.0-py2.py3-none-any.whl
+dataclasses @ file:///home/htriedman/.cache/pypoetry/artifacts/6d/c7/4c/0bc75a3ed7a500dce8a2758f85aaf3ee802f99526e1e70424372a349f4/dataclasses-0.6-py3-none-any.whl
+decorator @ file:///home/htriedman/.cache/pypoetry/artifacts/bf/2a/41/3e68cea1d4b487c4f76bc3f03edae2684d890153d569f156e24de4b592/decorator-5.0.9-py3-none-any.whl
+defusedxml @ file:///home/htriedman/.cache/pypoetry/artifacts/d3/69/a8/eb355ff24ffb8df62ec3dd9524bec0ad9d9dc719bd996734d6d7aa1d56/defusedxml-0.7.1-py2.py3-none-any.whl
+distlib @ file:///home/htriedman/.cache/pypoetry/artifacts/62/55/86/3aed2b1a4373490034d3cfc6e6013aded99e05eea1d8d1d59b2e440949/distlib-0.3.1-py2.py3-none-any.whl
+docutils @ file:///home/htriedman/.cache/pypoetry/artifacts/57/46/6d/09a88dae7f00f856ac42241f7ebf8d2824d7f55da9890aac10b832df10/docutils-0.16-py2.py3-none-any.whl
+entrypoints @ file:///home/htriedman/.cache/pypoetry/artifacts/5e/99/ed/7ceb3b7ba71bc66f2526e7ffc16315bfdb5bf955fe1051ec05516f7730/entrypoints-0.3-py2.py3-none-any.whl
+execnet @ file:///home/htriedman/.cache/pypoetry/artifacts/28/0b/7e/c07d9d98f3f838e860c8edea20778cad5120cfa478e0e35bae53be1d85/execnet-1.8.0-py2.py3-none-any.whl
+filelock==3.0.12
+findspark==1.4.2
+gcovr @ file:///home/htriedman/.cache/pypoetry/artifacts/7b/e9/cf/0fdfd51ab9ca25150376aed8d08889590b878df1365f849d8a03a5f194/gcovr-4.2-py2.py3-none-any.whl
+html5lib==1.1
+identify @ file:///home/htriedman/.cache/pypoetry/artifacts/9a/a5/79/df05223722f859e352b531c6e28f2736a458bd3b4ec1b457c2890bfb05/identify-1.6.2-py2.py3-none-any.whl
+idna @ file:///home/htriedman/.cache/pypoetry/artifacts/71/d9/bc/a8481f6ac8b5d0ecc0fbd34aca906ee68d1757f24fefbd0f4294c0c9d2/idna-2.10-py2.py3-none-any.whl
+imagesize @ file:///home/htriedman/.cache/pypoetry/artifacts/b0/0c/4c/2da9b5d688f3d57232a399cd66d8f682f2246dff0008a0253eed36d086/imagesize-1.2.0-py2.py3-none-any.whl
+importlib-metadata @ file:///home/htriedman/.cache/pypoetry/artifacts/7e/a3/b9/f02fc7ce63303de11f9f49becf6755077c464462e0a5fbeaff6feb2427/importlib_metadata-4.0.1-py3-none-any.whl
+iniconfig @ file:///home/htriedman/.cache/pypoetry/artifacts/4b/53/0d/5ec25cd18ec0e1022085b2591e331f7d09cebac8403d91b26963219a0c/iniconfig-1.1.1-py2.py3-none-any.whl
+ipykernel @ file:///home/htriedman/.cache/pypoetry/artifacts/fe/ab/bf/ffd3fa64343d566e847b7a46365a61a136abc83b6184992dbb54fcf662/ipykernel-5.5.5-py3-none-any.whl
+ipython @ file:///home/htriedman/.cache/pypoetry/artifacts/bb/3a/46/594e36fc090bf811d14b91cfb13ce985aabddf2834a654c19dbe88f2f1/ipython-7.16.1-py3-none-any.whl
+ipython-genutils @ file:///home/htriedman/.cache/pypoetry/artifacts/2c/69/c6/e1f2fd156ee87f59d0c32acc921a0da31121b0c7c192b1b9ac0908111d/ipython_genutils-0.2.0-py2.py3-none-any.whl
+ipywidgets @ file:///home/htriedman/.cache/pypoetry/artifacts/83/db/53/e89cbc09943d34d82339a205aa58c225bb26c9cb2cc104716f9c5bfeba/ipywidgets-7.6.3-py2.py3-none-any.whl
+isort @ file:///home/htriedman/.cache/pypoetry/artifacts/4a/8a/f1/2452b522e9af8f9cbe31d431dd9470b726d862a92ae316f0e886479263/isort-5.8.0-py3-none-any.whl
+jedi @ file:///home/htriedman/.cache/pypoetry/artifacts/1b/c9/89/e6d1f3a2cb2069fa5cacdaf2b474f924b727f0c38edd54d886e07a75bc/jedi-0.18.0-py2.py3-none-any.whl
+jeepney @ file:///home/htriedman/.cache/pypoetry/artifacts/d4/8d/67/9e505e96a4dce2290bbc2f588dcc2479aa21aeb530e0e5e92424cc1d59/jeepney-0.6.0-py3-none-any.whl
+Jinja2 @ file:///home/htriedman/.cache/pypoetry/artifacts/47/18/a4/1905063a877fa68496ecb2e347fc04c431948d96cf825a0960da5791e0/Jinja2-2.11.3-py2.py3-none-any.whl
+joblib @ file:///home/htriedman/.cache/pypoetry/artifacts/31/29/01/db4dcbbea55316357053572689a218c92920416d025fcdf575ed68d0c9/joblib-1.0.1-py3-none-any.whl
+jsonschema @ file:///home/htriedman/.cache/pypoetry/artifacts/a2/e2/79/5896dfe12b442a5a7583226fb0d61aec227575025e5ac51deecf719547/jsonschema-3.2.0-py2.py3-none-any.whl
+jupyter @ file:///home/htriedman/.cache/pypoetry/artifacts/12/56/8a/0c3f4ff4bf0613de3a1020ba2cb4f35919d4d55f3f364cc7b217f63a4c/jupyter-1.0.0-py2.py3-none-any.whl
+jupyter-client @ file:///home/htriedman/.cache/pypoetry/artifacts/12/84/22/82cd9725d1e706e36354135ceef5fcf8385e1e8933d9ef9a0c7dd85617/jupyter_client-6.1.13-py3-none-any.whl
+jupyter-console @ file:///home/htriedman/.cache/pypoetry/artifacts/99/c8/ec/2de2d0ccfb90fe23e9752664cae6e94c963c37391f2ff44cfbbf5bfa31/jupyter_console-6.4.0-py3-none-any.whl
+jupyter-core @ file:///home/htriedman/.cache/pypoetry/artifacts/6c/b4/0a/8912b11fb38e65e26cdf07a09561b340b0a6f4f5cc4b03dc17f8f678db/jupyter_core-4.7.1-py3-none-any.whl
+jupyterlab-pygments @ file:///home/htriedman/.cache/pypoetry/artifacts/92/13/97/3ba1dbd6e97ac9bf843bceb4d66902ecd4dab945d10002cc16d0daa1d8/jupyterlab_pygments-0.1.2-py2.py3-none-any.whl
+jupyterlab-widgets @ file:///home/htriedman/.cache/pypoetry/artifacts/d9/bd/77/52835917d713d609702eab7cb97fdae0bb6c8c66ff068eb0dc62fd6bc8/jupyterlab_widgets-1.0.0-py3-none-any.whl
+keyring @ file:///home/htriedman/.cache/pypoetry/artifacts/78/27/a8/d2114daecc288bb70ae1bbfd0cf8cac86f3fb52ba12d2a7d936aab68a3/keyring-23.0.1-py3-none-any.whl
+kiwisolver @ file:///home/htriedman/.cache/pypoetry/artifacts/a5/fd/47/89200beb7a43d70a367de6fb92e4c94920131f5cf493970c9139130452/kiwisolver-1.3.1-cp37-cp37m-manylinux1_x86_64.whl
+lockfile==0.12.2
+lxml @ file:///home/htriedman/.cache/pypoetry/artifacts/d2/c0/06/f1fbdfc79e346fcefc1e9aabf387d72a8be6344bc0aecc454de1c8d6d2/lxml-4.6.3-cp37-cp37m-manylinux2014_x86_64.whl
+MarkupSafe @ file:///home/htriedman/.cache/pypoetry/artifacts/cd/da/a5/4cfa20f311002e7588045a07491e292e7fb819fcc777144055b7c7ba89/MarkupSafe-1.1.1-cp37-cp37m-manylinux2010_x86_64.whl
+matplotlib @ file:///home/htriedman/.cache/pypoetry/artifacts/eb/a7/f4/7aaf971c5ad628ceb263094c0ec9479b41faff9b91208f40d4cfe11c90/matplotlib-3.3.4-cp37-cp37m-manylinux1_x86_64.whl
+mistune @ file:///home/htriedman/.cache/pypoetry/artifacts/80/fd/6c/c86cb01dda756e2e899197f574484928622e9ad453d90761abac9e1948/mistune-0.8.4-py2.py3-none-any.whl
+msgpack==1.0.2
+mypy @ file:///home/htriedman/.cache/pypoetry/artifacts/fd/29/01/9d2813aa7cd8177b78e0b918c3add4852cf43323246c8d173309179443/mypy-0.812-cp37-cp37m-manylinux2010_x86_64.whl
+mypy-extensions @ file:///home/htriedman/.cache/pypoetry/artifacts/41/fb/ef/133cd18a3e22a06b8d77dfe2ba71c50c509e4d2484ee619c6631c0b5b2/mypy_extensions-0.4.3-py2.py3-none-any.whl
+nbclient @ file:///home/htriedman/.cache/pypoetry/artifacts/3f/55/c9/afc93bc8bb49a19bfbe75c3ff92b611d77d13e367c3cab5fc1b4d5a3cd/nbclient-0.5.1-py3-none-any.whl
+nbconvert @ file:///home/htriedman/.cache/pypoetry/artifacts/9f/b0/34/add1712e9bfa620ab77d2d5d5603591edc85cd6c4ba1a40b4385befda2/nbconvert-6.0.7-py3-none-any.whl
+nbformat @ file:///home/htriedman/.cache/pypoetry/artifacts/0b/d3/e5/88a4198def0d0bfda1c57a758546b5d2f7bd8edd3dc9be0b71555110ba/nbformat-5.1.3-py3-none-any.whl
+nbqa @ file:///home/htriedman/.cache/pypoetry/artifacts/cf/21/de/63569518290bde9de2bae716c45ab362a6084c006450af087bca2a9dad/nbqa-0.8.1-py3-none-any.whl
+nest-asyncio @ file:///home/htriedman/.cache/pypoetry/artifacts/a6/03/5a/2c77454326bb7a0a235ae4a78437c007a6ef2631cf40b34da26b5729c4/nest_asyncio-1.5.1-py3-none-any.whl
+nodeenv @ file:///home/htriedman/.cache/pypoetry/artifacts/62/b6/38/15bc8ef9749850c6ad053beb712ea5040a175d6fac93108b95c6f177ef/nodeenv-1.6.0-py2.py3-none-any.whl
+notebook @ file:///home/htriedman/.cache/pypoetry/artifacts/8c/7f/b5/1734baadda7ddfda9a357cbc94c4eb7756a74fe40add4a4ab3a87bc828/notebook-6.3.0-py3-none-any.whl
+numpy==1.17.2
+packaging==20.9
+pandas==0.25.1
+pandocfilters==1.4.3
+parso @ file:///home/htriedman/.cache/pypoetry/artifacts/dc/ff/07/1556e66e77c039a21cd51bc0de4c5777b35569c3903674997b2cdfb9f5/parso-0.8.2-py2.py3-none-any.whl
+pastel==0.2.1
+pathspec @ file:///home/htriedman/.cache/pypoetry/artifacts/d3/5f/9e/9c6b0f740c5d2430d10e5d6f50db88d8ffaab034156351d3fb698bd3c5/pathspec-0.8.1-py2.py3-none-any.whl
+pexpect==4.8.0
+pickleshare @ file:///home/htriedman/.cache/pypoetry/artifacts/e3/49/c6/dda859db430eaa2b27acc6a8bab879e41d2bf09e99f792343ccc9d1fef/pickleshare-0.7.5-py2.py3-none-any.whl
+Pillow @ file:///home/htriedman/.cache/pypoetry/artifacts/33/2c/8b/596c551987d35a45fb1ec5bca0f603038a9d768054d449544befaede0e/Pillow-8.2.0-cp37-cp37m-manylinux1_x86_64.whl
+pkg_resources==0.0.0
+pkginfo @ file:///home/htriedman/.cache/pypoetry/artifacts/4c/de/0c/cacc4ae316bcf2342453613c65374398c1cc990ab1b0e413088b001b6f/pkginfo-1.7.0-py2.py3-none-any.whl
+platformdirs==2.2.0
+pluggy @ file:///home/htriedman/.cache/pypoetry/artifacts/bc/2e/c9/c04063460a7a68d2e59c9ea0a673de9d7930d54f788ed0510cdcf8aa78/pluggy-0.13.1-py2.py3-none-any.whl
+poetry==1.1.8
+poetry-core==1.0.4
+pre-commit @ file:///home/htriedman/.cache/pypoetry/artifacts/97/d5/7e/31992311ee96635b586f26b10c6068f8ebc7f5a0cd231a896316d4cb5f/pre_commit-2.1.1-py2.py3-none-any.whl
+prometheus-client @ file:///home/htriedman/.cache/pypoetry/artifacts/0b/d6/f7/38818ac7b9cdc0284e61fcdf0611a28821f2590cc115109e0dbaca44a6/prometheus_client-0.10.1-py2.py3-none-any.whl
+prompt-toolkit @ file:///home/htriedman/.cache/pypoetry/artifacts/96/85/9e/762588daf91816c1c397a0cd64ca58ca06c22590ec247b048e87d0dfff/prompt_toolkit-3.0.3-py3-none-any.whl
+ptyprocess==0.7.0
+py @ file:///home/htriedman/.cache/pypoetry/artifacts/56/1d/e3/7dad75e1bf797fbd8937b37dd43d1656357c67a199e9f54d48535697d0/py-1.10.0-py2.py3-none-any.whl
+py4j==0.10.7
+pyarrow==0.15.0
+pycparser==2.20
+pydp==1.1.0rc1
+Pygments @ file:///home/htriedman/.cache/pypoetry/artifacts/1d/a8/b5/1ed95806c9028fecdca90d260644ce1ea404eb6656930ba28141706870/Pygments-2.9.0-py3-none-any.whl
+pylev==1.4.0
+pyparsing==2.4.7
+pyrsistent==0.17.3
+pytest @ file:///home/htriedman/.cache/pypoetry/artifacts/49/a8/7a/2e3e11e8fc45487afdf755665cb90d554d24b76dc15a5210af89a3d8e7/pytest-6.2.4-py3-none-any.whl
+pytest-forked @ file:///home/htriedman/.cache/pypoetry/artifacts/e0/39/1a/8e13fb74a8e3fbc632e08fd20a4251fcdb5634cdc180296845609fff33/pytest_forked-1.3.0-py2.py3-none-any.whl
+pytest-randomly @ file:///home/htriedman/.cache/pypoetry/artifacts/ae/01/ff/7743c83bae2f7a9b3b264a9ba5b89889e0b6e79106a9559dd39266abfc/pytest_randomly-3.8.0-py3-none-any.whl
+pytest-sugar==0.9.4
+pytest-xdist @ file:///home/htriedman/.cache/pypoetry/artifacts/18/25/d0/51094284d7e661698021e20c36c41e397379edcccbae40c4ae9f342dba/pytest_xdist-2.2.1-py3-none-any.whl
+python-dateutil==2.8.0
+pytz==2019.3
+PyYAML @ file:///home/htriedman/.cache/pypoetry/artifacts/17/3c/f6/dd4498c1b6b7cdef0517d1e5c0a56e52886d36350589195788eed24d29/PyYAML-5.4.1-cp37-cp37m-manylinux1_x86_64.whl
+pyzmq @ file:///home/htriedman/.cache/pypoetry/artifacts/dd/a2/24/c8ec691e3ac51d6df3c9b91bc06a2d49ba9f99af4146527b6efb3c3585/pyzmq-22.0.3-cp37-cp37m-manylinux1_x86_64.whl
+qtconsole @ file:///home/htriedman/.cache/pypoetry/artifacts/25/df/15/8d65cee8ac5ac2b96586c67dce041ff2875817c298e8726542c11c69f6/qtconsole-5.1.0-py3-none-any.whl
+QtPy @ file:///home/htriedman/.cache/pypoetry/artifacts/8d/c8/7b/f07109a6dc6b92fe95473bd29a9abd2432c5117aba360c912a681384f4/QtPy-1.9.0-py2.py3-none-any.whl
+readme-renderer @ file:///home/htriedman/.cache/pypoetry/artifacts/70/8e/15/ac8d86b65b63240729bd3565a598d92e6e36b32230b78ba1a2de90c842/readme_renderer-29.0-py2.py3-none-any.whl
+regex @ file:///home/htriedman/.cache/pypoetry/artifacts/5b/86/c7/caf2fd4e0eace88a30e3b2109f1587ce13a19f81611406f179c9dd3754/regex-2021.4.4-cp37-cp37m-manylinux2014_x86_64.whl
+requests @ file:///home/htriedman/.cache/pypoetry/artifacts/f2/13/b8/cc7ac8d0aa2630507c04c2c0e72307bed4ee7e2c92d7c3d97a5d61e74e/requests-2.25.1-py2.py3-none-any.whl
+requests-toolbelt==0.9.1
+rfc3986 @ file:///home/htriedman/.cache/pypoetry/artifacts/02/1e/2a/9984f456b171d289ba0408b05d612c80878ab23f8f6a08eec512663262/rfc3986-1.5.0-py2.py3-none-any.whl
+scikit-learn @ file:///home/htriedman/.cache/pypoetry/artifacts/19/77/af/a53372e62bef62838b91a951a88b008dafdde938b6d9e24a49358e84e5/scikit_learn-0.24.2-cp37-cp37m-manylinux2010_x86_64.whl
+scipy @ file:///home/htriedman/.cache/pypoetry/artifacts/02/84/88/2f54cdb7557705814430583f4a0b096058b9fa6381f054ef2538123a5c/scipy-1.5.4-cp37-cp37m-manylinux1_x86_64.whl
+seaborn @ file:///home/htriedman/.cache/pypoetry/artifacts/c4/22/fc/fd38d7636e30c13180546a01820a5bed4cc2b29e938cbb65b81f991276/seaborn-0.11.1-py3-none-any.whl
+SecretStorage==3.3.1
+Send2Trash @ file:///home/htriedman/.cache/pypoetry/artifacts/65/5c/cf/74efc7119c07b06a3e5f3f1e4ffc62bd28315db7decee27e42ff7f5ee0/Send2Trash-1.5.0-py3-none-any.whl
+shellingham==1.4.0
+six==1.12.0
+sklearn==0.0
+snowballstemmer @ file:///home/htriedman/.cache/pypoetry/artifacts/1b/e7/37/c1ccd5c7451e2f738886b093508276afa6237726b3b8c391d26c98ddee/snowballstemmer-2.1.0-py2.py3-none-any.whl
+Sphinx @ file:///home/htriedman/.cache/pypoetry/artifacts/9a/cd/f4/20f3dcb56cc25f1c67c528255772647a3e82a36c4c214abb32e7a59311/Sphinx-4.0.1-py3-none-any.whl
+sphinx-rtd-theme @ file:///home/htriedman/.cache/pypoetry/artifacts/c8/c9/dc/adc9353f35bd6b00150c8a2ba03363020eb854789f89826d2a1cf3d2dd/sphinx_rtd_theme-0.5.2-py2.py3-none-any.whl
+sphinxcontrib-applehelp @ file:///home/htriedman/.cache/pypoetry/artifacts/cc/cf/dd/8ba7c4afe2ff84e7204886e2fd837495627b3827a21925726fcc3125d1/sphinxcontrib_applehelp-1.0.2-py2.py3-none-any.whl
+sphinxcontrib-devhelp @ file:///home/htriedman/.cache/pypoetry/artifacts/59/da/dc/900e02cc5452883e989929e3784c1a7094cd7326af3cf4a6d8bb225055/sphinxcontrib_devhelp-1.0.2-py2.py3-none-any.whl
+sphinxcontrib-htmlhelp @ file:///home/htriedman/.cache/pypoetry/artifacts/11/b9/f6/329734fa1be1c805096ac23381f177cd4cc617499095ab385fce82bd95/sphinxcontrib_htmlhelp-1.0.3-py2.py3-none-any.whl
+sphinxcontrib-jsmath @ file:///home/htriedman/.cache/pypoetry/artifacts/7f/d8/ef/31320102fc49e5beeb72d480f0dab2dc5429fbd8cedf45817e2320d58e/sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl
+sphinxcontrib-qthelp @ file:///home/htriedman/.cache/pypoetry/artifacts/81/5b/46/baf9bd9c58b789d2ff445165e5859021ea31139602fffcc773c39da86b/sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl
+sphinxcontrib-serializinghtml @ file:///home/htriedman/.cache/pypoetry/artifacts/6a/e9/75/0afa870282075cec7b4aea1f133464212c82722b3cb72319d359cae77f/sphinxcontrib_serializinghtml-1.1.4-py2.py3-none-any.whl
+termcolor==1.1.0
+terminado @ file:///home/htriedman/.cache/pypoetry/artifacts/fa/9d/4d/22e4804e5c95264011a157a8bee5986b8495106c4de6b9091e4a515758/terminado-0.9.5-py3-none-any.whl
+testpath @ file:///home/htriedman/.cache/pypoetry/artifacts/20/41/61/40209212e3cc4ead6910ce1a83532987e232f01564d9e48fd1c1e2e12e/testpath-0.4.4-py2.py3-none-any.whl
+threadpoolctl @ file:///home/htriedman/.cache/pypoetry/artifacts/10/d2/ec/b7f7827e6b16466e651b5a2ea18c64362ff41a15e221a88cc3064fb4dd/threadpoolctl-2.1.0-py3-none-any.whl
+tokenize-rt @ file:///home/htriedman/.cache/pypoetry/artifacts/ca/3d/d8/a1cc8d42ae8cdabe3cf4c117ec6a23206a42ff3962b2c32e26a6dbd219/tokenize_rt-3.2.0-py2.py3-none-any.whl
+toml @ file:///home/htriedman/.cache/pypoetry/artifacts/4f/28/bf/d86336a479a830a4e11505920e408af09c2f5c129c3b59500aa93387fb/toml-0.10.2-py2.py3-none-any.whl
+tomlkit==0.7.2
+tornado @ file:///home/htriedman/.cache/pypoetry/artifacts/73/ac/41/70b315914d448001a26418a2337c0a55911086b3a31a87013f55e807eb/tornado-6.1-cp37-cp37m-manylinux2010_x86_64.whl
+tqdm @ file:///home/htriedman/.cache/pypoetry/artifacts/06/df/97/93c62ddbda15a68b2cb12a43b5f6a574d87f007c0605bccab122f5912e/tqdm-4.60.0-py2.py3-none-any.whl
+traitlets @ file:///home/htriedman/.cache/pypoetry/artifacts/27/8f/06/53717c0f6bc8d054b83131f383d3397bac43181adea8a65b133a28b9dd/traitlets-4.3.3-py2.py3-none-any.whl
+twine @ file:///home/htriedman/.cache/pypoetry/artifacts/5a/ed/a6/c0ba96f9660cfcf0f1b4e16c9f154a5eacd340943c88f0ae8b57559e26/twine-3.4.1-py3-none-any.whl
+typed-ast @ file:///home/htriedman/.cache/pypoetry/artifacts/fe/7c/53/86cd82215775e7707b6f7cafaeed6802f93f0856a8371b0e15bc85d3c6/typed_ast-1.4.3-cp37-cp37m-manylinux1_x86_64.whl
+typing-extensions @ file:///home/htriedman/.cache/pypoetry/artifacts/68/42/ed/1c6d7e4b35b42abe4d1d4611b15db99c8b52648ee938f6261f03ef4b83/typing_extensions-3.10.0.0-py3-none-any.whl
+urllib3 @ file:///home/htriedman/.cache/pypoetry/artifacts/54/b1/a1/ccbf6b869ccdaff965957abdd8e3e5aa4bee1533ed104a0d11bdc07a61/urllib3-1.26.4-py2.py3-none-any.whl
+virtualenv @ file:///home/htriedman/.cache/pypoetry/artifacts/84/c5/cf/d8c2200923334c1d5ed5b76987fd791c9943d48af4993d020665da0384/virtualenv-20.4.6-py2.py3-none-any.whl
+wcwidth @ file:///home/htriedman/.cache/pypoetry/artifacts/92/12/86/71fde978823bd982c22bd549b0ba688e372403269396c892ac8160f4fe/wcwidth-0.2.5-py2.py3-none-any.whl
+webencodings==0.5.1
+widgetsnbextension @ file:///home/htriedman/.cache/pypoetry/artifacts/df/8c/62/03b8d5e9a4adf6311653006eb285482908f2bf68cc88ba5c00ddc0df1c/widgetsnbextension-3.5.1-py2.py3-none-any.whl
+zipp @ file:///home/htriedman/.cache/pypoetry/artifacts/16/0e/ae/e94ff238fe5d8b11b4eeb35f0ee94fd9f1b0d2182a3d47e3253ce47360/zipp-3.4.1-py3-none-any.whl
