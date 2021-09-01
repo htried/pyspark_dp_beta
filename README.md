@@ -11,7 +11,7 @@ This notebook roughly follows along with the exercises in the two DP tutorials l
 
 I've adapted them to execute using Apache Spark rather than Apache Beam.
 
-# Installing PyDP on a production analytics machine
+# Installing PyDP on a production analytics machine (using pip)
 start from home directory
 
 clone pydp source
@@ -80,3 +80,33 @@ ssh -N stat1005.eqiad.wmnet -L 8123:stat1005.eqiad.wmnet:8123
 ```
 
 You should then be able to open your own env in jupyter notebook
+
+# Installing PyDP on a production analytics machine (using conda)
+start from home directory
+
+clone pydp source, create conda env, activate conda env with necessary packages
+```
+git clone https://github.com/OpenMined/PyDP.git
+conda-create-stacked env
+source conda-activate-stacked env
+conda install -c conda-forge bazel
+conda install -c conda-forge poetry
+```
+
+make intended import target
+```
+mkdir <dir>
+cd <dir>
+```
+
+make pydp from source and kinit
+```
+cd ../PyDP
+git submodule deinit -f --all
+git submodule init
+git submodule update
+poetry install
+kinit
+```
+
+Now start a jupyter notebook by running `ssh <username>@stat100x.eqiad.wmnet -L 8880:127.0.0.1:8880` and navigating to localhost:8880. Select your conda environment and you should be good to go!
