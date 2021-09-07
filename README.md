@@ -109,4 +109,4 @@ poetry install
 kinit
 ```
 
-Now start a jupyter notebook by running `ssh <username>@stat100x.eqiad.wmnet -L 8880:127.0.0.1:8880` and navigating to localhost:8880. Select your conda environment and you should be good to go!
+Now start a jupyter notebook by running `ssh -N stat100x.eqiad.wmnet -L 8880:127.0.0.1:8880` and navigating to localhost:8880. Select your conda environment and you should be good to go!
